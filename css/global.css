@@ -123,4 +123,4 @@ aside { width: 100%; }
 ----------------------------------------------------------------------------------------*/
 .cf:before, .cf:after { content: ""; display: block; }
 .cf:after { clear: both; }
-.ie6 .cf { zoom: 1 }
+.ie6 .cf { zoom: 1; }
